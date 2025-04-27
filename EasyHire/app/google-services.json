@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "516236493735",
+    "project_id": "easyhire-fd03a",
+    "storage_bucket": "easyhire-fd03a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516236493735:android:ab8eaa0214a5e77ecaec82",
+        "android_client_info": {
+          "package_name": "com.ngio.easyhire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516236493735-sqpugsgs48t13b4cflbkoepqbb43agm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngio.easyhire",
+            "certificate_hash": "5ebd21eed44525336e004f99e5493ebc1094d558"
+          }
+        },
+        {
+          "client_id": "516236493735-460lnb21fl092i6gqhu2egu222ih1db6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_6JrUvYS5aF7eAcv7X633Bj_TfzeuHrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516236493735-460lnb21fl092i6gqhu2egu222ih1db6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

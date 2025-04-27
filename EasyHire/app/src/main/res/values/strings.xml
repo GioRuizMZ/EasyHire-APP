@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyHire</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="default_web_client_id">516236493735-460lnb21fl092i6gqhu2egu222ih1db6.apps.googleusercontent.com</string>
+</resources>

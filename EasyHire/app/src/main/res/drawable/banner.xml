@@ -1,0 +1,18 @@
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size android:width="200dp" android:height="100dp" /> <!-- Tamaño del medio círculo -->
+            <solid android:color="?attr/colorPrimary" /> <!-- Color del medio círculo -->
+        </shape>
+    </item>
+
+    <item
+        android:left="0dp"
+        android:right="0dp"
+        android:top="-50dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" />
+        </shape>
+    </item>
+</layer-list>
